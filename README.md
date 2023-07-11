@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Autonomous Driving**
 
-- 👨‍💻 All of my projects are available at [https://yourstrulysanjeev.github.io/](https://yourstrulysanjeev.github.io/)
+- 👨‍💻 All of my info and projects are available at [https://www.sanjeevdatasci.dev/](https://www.sanjeevdatasci.dev/)
 
 - 💬 Ask me about **Python, Data Science -ML/AI**
 
